@@ -1,0 +1,13 @@
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\ConsoleSlave1.exe.config
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\ConsoleSlave1.exe
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\ConsoleSlave1.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\Logger.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\NLog.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\Logger.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\NLog.xml
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\obj\Debug\ConsoleSlave1.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\obj\Debug\ConsoleSlave1.exe
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\obj\Debug\ConsoleSlave1.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleSlave1\bin\Debug\NLog.config

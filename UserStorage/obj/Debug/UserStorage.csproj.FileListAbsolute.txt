@@ -1,0 +1,15 @@
+C:\Users\Sasha\Desktop\UserStorage\UserStorage\bin\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\UserStorage\UserStorage\bin\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\UserStorage\UserStorage\obj\Debug\UserStorage.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\UserStorage\UserStorage\obj\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\UserStorage\UserStorage\obj\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\obj\Debug\UserStorage.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\obj\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\obj\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\NLog.config
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\Logger.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\NLog.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\Logger.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorage\bin\Debug\NLog.xml

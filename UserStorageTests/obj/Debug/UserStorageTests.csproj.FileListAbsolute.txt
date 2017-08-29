@@ -1,0 +1,13 @@
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\UserStorageTests.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\UserStorageTests.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\nunit.framework.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\Logger.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\NLog.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\nunit.framework.xml
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\Logger.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\bin\Debug\NLog.xml
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\obj\Debug\UserStorageTests.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\obj\Debug\UserStorageTests.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\UserStorageTests\obj\Debug\UserStorageTests.pdb

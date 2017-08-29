@@ -1,0 +1,13 @@
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\ConsoleMaster.exe.config
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\ConsoleMaster.exe
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\ConsoleMaster.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\UserStorage.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\Logger.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\NLog.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\UserStorage.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\Logger.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\NLog.xml
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\obj\Debug\ConsoleMaster.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\obj\Debug\ConsoleMaster.exe
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\obj\Debug\ConsoleMaster.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\ConsoleMaster\bin\Debug\NLog.config

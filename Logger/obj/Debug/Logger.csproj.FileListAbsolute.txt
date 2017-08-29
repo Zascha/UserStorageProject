@@ -1,0 +1,8 @@
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\bin\Debug\NLog.config
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\bin\Debug\Logger.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\bin\Debug\Logger.pdb
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\bin\Debug\NLog.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\bin\Debug\NLog.xml
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\obj\Debug\Logger.dll
+C:\Users\Sasha\Desktop\EPAM Lab\UserStorage\Logger\obj\Debug\Logger.pdb
